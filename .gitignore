@@ -1,0 +1,4 @@
+# Docker environment files
+.env.docker
+credentials.json
+secrets/
