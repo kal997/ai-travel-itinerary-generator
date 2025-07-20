@@ -259,7 +259,7 @@ docker-compose exec frontend /bin/sh
 
 - [Backend Documentation](https://github.com/kal997/ai-travel-itinerary-generator-backend)
 - [Frontend Documentation](https://github.com/kal997/ai-travel-itinerary-generator-frontend)
-- [API Documentation](http://localhost:8000/docs) (when running)
+- [API Documentation](https://ai-travel-itinerary-gen-app-backend-181459384771.us-central1.run.app/docs)
 
 ## 🏛️ Project Structure
 
