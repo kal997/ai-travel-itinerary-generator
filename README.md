@@ -5,6 +5,19 @@
 
 A full-stack application that leverages Google's Gemini AI to create personalized travel itineraries. This repository contains both frontend and backend components as Git submodules, with Docker Compose orchestration for seamless development.
 
+## 🌍 Live Deployed App
+
+The full app is deployed and accessible here:
+
+🔗 **Web App URL**:  
+[https://ai-travel-itinerary-gen-app-frontend-181459384771.us-central1.run.app](https://ai-travel-itinerary-gen-app-frontend-181459384771.us-central1.run.app)
+> This frontend connects to the deployed backend and Gemini AI APIs under the hood — no setup required to test.
+
+📘 Swagger Docs: [Swagger UI](https://ai-travel-itinerary-gen-app-backend-181459384771.us-central1.run.app/docs)
+---- 
+
+
+
 ## 🏗️ Architecture Overview
 
 ```
